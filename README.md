@@ -19,6 +19,7 @@ HARDWARE REQUIREMENTS
 • GPU: NVidia graphic card.  
 SOFTWARE REQUIREMENTS 
 • Operating System: Any OS  
+
 • The following NVIDIA® software are only required for GPU support.
     ○ [NVIDIA® GPU drivers version 450.80.02 or higher](https://www.nvidia.com/download/index.aspx).
     ○ CUDA® Toolkit 11.8.
