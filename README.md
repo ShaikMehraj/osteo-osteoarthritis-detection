@@ -21,9 +21,13 @@ SOFTWARE REQUIREMENTS
 • Operating System: Any OS  
 
 • The following NVIDIA® software are only required for GPU support.
-    ○ [NVIDIA® GPU drivers version 450.80.02 or higher](https://www.nvidia.com/download/index.aspx).
+
+    ○ [NVIDIA® GPU drivers version 450.80.02 or higher] (https://www.nvidia.com/download/index.aspx).
+
     ○ CUDA® Toolkit 11.8.
+
     ○ cuDNN SDK 8.6.0.
+
 • Network: Wi-Fi Internet or cellular Network.  
 • Jupyter Notebook or Google Collab: Used to run our dataset, compute require results, and create models and execute them on the dataset and to obtain the accuracies.  
 • Packages: All TensorFlow and keras files and data visualization libraries. 
