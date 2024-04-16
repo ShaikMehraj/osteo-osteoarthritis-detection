@@ -14,18 +14,18 @@ The proposed system of the project are as follows:
 
 HARDWARE REQUIREMENTS               
 • Processor: Intel or AMD                     
-• RAM: 16 GB 
-• GPU: NVIDIA GPU card with CUDA® architectures 3.5, 5.0, 6.0, 7.0, 7.5, 8.0 and higher.  
-• Space on disk: minimum 1000 MB 
-• For running the application on Device: laptop with GPU is preferred 
-• Minimum space to execute: 16gb ram with minimum of 8 core  
+• RAM: 16 GB                                                    
+• GPU: NVIDIA GPU card with CUDA® architectures 3.5, 5.0, 6.0, 7.0, 7.5, 8.0 and higher.                   
+• Space on disk: minimum 1000 MB                                       
+• For running the application on Device: laptop with GPU is preferred                
+• Minimum space to execute: 16gb ram with minimum of 8 core CPU                          
 
 SOFTWARE REQUIREMENTS         
 • Operating System: Any OS              
 • The following NVIDIA® software are only required for GPU support.
-    • [NVIDIA® GPU drivers version 450.80.02 or higher.](https://www.nvidia.com/download/index.aspx?lang=en-us)
-    • [CUDA® Toolkit 11.8.](https://developer.nvidia.com/cuda-toolkit-archive)
-    • [cuDNN SDK 8.6.0.](https://developer.nvidia.com/cudnn-downloads)  
+    • [NVIDIA® GPU drivers version 450.80.02 or higher.](https://www.nvidia.com/download/index.aspx?lang=en-us)         
+    • [CUDA® Toolkit 11.8.](https://developer.nvidia.com/cuda-toolkit-archive)               
+    • [cuDNN SDK 8.6.0.](https://developer.nvidia.com/cudnn-downloads)                   
     
 • Network: Wi-Fi or cellular Network.  
 • Jupyter Notebook or Google Collab: Used to run our dataset, compute require results, and create models and execute them on the dataset and to obtain the accuracies.  
